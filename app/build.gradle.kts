@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.fevziomurtekin.datastore_training"
+    namespace = "com.fevziomurtekin.datastore_example"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.fevziomurtekin.datastore_training"
+        applicationId = "com.fevziomurtekin.datastore_example"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

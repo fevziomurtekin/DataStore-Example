@@ -1,4 +1,4 @@
-package com.fevziomurtekin.datastore_training
+package com.fevziomurtekin.datastore_example
 
 import org.junit.Test
 
